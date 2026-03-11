@@ -89,40 +89,45 @@ Ticket Priority
 
 ---
 
-# 🚀 How to Run the Project
+## 💻 Running the Streamlit App Locally
 
-### 1️⃣ Clone the Repository
+This project includes a **Streamlit web application** that allows users to interact with the trained machine learning models.
 
-```
-git clone https://github.com/yourusername/FUTURE_ML_02.git
-cd FUTURE_ML_02
-```
+The application is **not deployed online**, but it can easily be run locally on your machine.
 
-Replace **yourusername** with your GitHub username.
+### 🚀 Steps to Run the Application
 
----
-
-### 2️⃣ Install Dependencies
+1️⃣ Install the required dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
----
-
-### 3️⃣ Run the Streamlit Application
+2️⃣ Start the Streamlit application
 
 ```
 streamlit run app.py
 ```
 
-The application will open in your browser at:
+3️⃣ Open the app in your browser
 
 ```
-http://localhost:8503/
+http://localhost:8501
 ```
+
+### ✨ Features of the Application
+
+🔹 Classifies support tickets into categories  
+🔹 Predicts ticket priority levels  
+🔹 Provides example ticket inputs  
+🔹 Displays dataset insights and visualizations  
+
+This interactive interface allows users to test the **Support Ticket Classification & Prioritization System** easily.
 
 ---
+
+⚠️ **Note:**  
+The application currently runs **locally** and is **not deployed online**.
 
 # 📊 Dataset
 
