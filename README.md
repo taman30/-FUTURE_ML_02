@@ -125,7 +125,7 @@ After running the command, the terminal will show something like:
 ```
 You can now view your Streamlit app in your browser.
 
-Local URL: http://localhost:8503
+Local URL: http://localhost:8501
 ```
 
 ### 5️⃣ Open the app in your browser
@@ -133,7 +133,7 @@ Local URL: http://localhost:8503
 Copy and paste the **Local URL** shown in the terminal into your browser:
 
 ```
-http://localhost:8503
+ http://localhost:8501
 ```
 
 ---
